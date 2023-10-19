@@ -37,8 +37,8 @@
 
 # ///////////////////////////////////////////////////////////////////
 
-# def count_letters(in_string: str):
-#     return len(in_string.replace(" ", ""))
+def count_letters(in_string: str):
+    return len(in_string.replace(" ", ""))
 
 # ////////////////////////////////////////////////////////
 
